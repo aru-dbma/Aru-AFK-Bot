@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "arusmp.aternos.me",
+    "ip": "",
     "port": 50834,
     "version": "",
     "try-creative": false
